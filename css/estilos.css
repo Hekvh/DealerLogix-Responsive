@@ -1,0 +1,17 @@
+
+<!--HEADER-->
+
+.navbar{
+    margin-bottom: 0px;
+} 
+
+.jumbotron {
+	background:#428BCA;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.jumbotron .titulo-blog {
+	font-size:70px;	
+}
+
